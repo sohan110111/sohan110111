@@ -1,6 +1,5 @@
 ### Hi there 👋
 <h1>I love math and science specially for pogramming.</h1>
-HTML Comments
 <!--
 **sohan110111/sohan110111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://github.com/sohan110111/web-portfolio/blob/master/images/profile1.png">
