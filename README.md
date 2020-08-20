@@ -1,8 +1,9 @@
 ### Hi there 👋
-<img src="https://github.com/sohan110111/web-portfolio/blob/master/images/profile1.png">
+document.body.innerHTML = "https://sohan110111.github.io/web-portfolio/"
 <!--
 **sohan110111/sohan110111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://github.com/sohan110111/web-portfolio/blob/master/images/profile1.png">
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
