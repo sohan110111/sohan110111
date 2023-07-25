@@ -4,6 +4,7 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sohan110111&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
    ![](https://github-readme-stats.vercel.app/api?username=sohan110111&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=sohan110111&theme=dark&hide_border=false)<br/>
+  <a href="https://app.daily.dev/sohan110111"><img src="https://api.daily.dev/devcards/2cc1d394b0af4ba685a1eb436796fa7a.png?r=sby" width="400" alt="Md. Shafiul Islam Sohan's Dev Card"/></a>
   <!--
   **sohan110111/sohan110111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   <img src="https://github.com/sohan110111/web-portfolio/blob/master/images/profile1.png">
